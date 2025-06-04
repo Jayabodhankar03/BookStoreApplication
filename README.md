@@ -1,4 +1,4 @@
-# BookStoreApplication 
+📚 # BookStoreApplication 
 # (Flask,Django,MYSQL)
 BookstoreApplication 
 Introduction: 
@@ -8,7 +8,7 @@ and purchase books, and an admin panel to manage inventory, categories, and orde
 application simplifies the process of buying and selling books online and provides a 
 centralized system to handle bookstore management effectively. 
  
-# Need for the Project: 
+#📙 Need for the Project: 
 • To automate and digitalize traditional bookstore operations. 
 • To provide an online platform where users can explore and purchase books anytime. 
 • To enable easy inventory management and order tracking for the admin. 
@@ -37,7 +37,7 @@ Working:
 • Checkout & Payment: Complete purchase via a secure process. 
 • Order History: View details of past purchases. 
  
-# Functionality (Brief Overview): 
+# Functionality (Brief Overview)📙: 
 • Secure login system for both admin and users. 
 • CRUD operations for books and categories (admin). 
 • Dynamic book listing and search functionality. 
