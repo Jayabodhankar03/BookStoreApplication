@@ -8,7 +8,7 @@ and purchase books, and an admin panel to manage inventory, categories, and orde
 application simplifies the process of buying and selling books online and provides a 
 centralized system to handle bookstore management effectively. 
  
-#📙 Need for the Project: 
+#📙 Need for the Project📚: 
 • To automate and digitalize traditional bookstore operations. 
 • To provide an online platform where users can explore and purchase books anytime. 
 • To enable easy inventory management and order tracking for the admin. 
@@ -43,4 +43,4 @@ Working:
 • Dynamic book listing and search functionality. 
 • Shopping cart system with real-time updates. 
 • Order placement and tracking module. 
-• Responsive design for a better user experience on all devices.
+• Responsive design for a better user experience on all devices.📚
