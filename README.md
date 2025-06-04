@@ -1,5 +1,4 @@
-# BookStoreApplication
-# BookStoreAplication
+# BookStoreApplication 
 # (Flask,Django,MYSQL)
 BookstoreApplication 
 Introduction: 
